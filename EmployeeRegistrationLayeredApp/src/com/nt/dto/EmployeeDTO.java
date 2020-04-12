@@ -16,7 +16,7 @@ public class EmployeeDTO implements Serializable {
 	private Date   doj;
 	private float basicSalary;
 
-	private int empid;
+	
 
 
 }
